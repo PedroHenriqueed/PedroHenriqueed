@@ -17,9 +17,8 @@ Currently learning and building projects with:
 ## 📈 My GitHub stats
 <p align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueed&layout=compact&langs_count=7&theme=transparent"/>
-  <br>
     <br>
-
+    <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueed&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </p>
 <br>
