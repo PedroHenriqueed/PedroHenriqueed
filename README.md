@@ -1,8 +1,8 @@
 ## Hi there! 👋💻
-
+<p align="center">
 I'm Pedro Henrique, a Front-end Developer in training.  
 Currently learning and building projects with:
-
+</p>
 <br>
 
 <p align="center">
@@ -14,6 +14,16 @@ Currently learning and building projects with:
 
 <br>
 
+## 📈 My GitHub stats
+<p align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueed&layout=compact&langs_count=7&theme=transparent"/>
+  <br>
+    <br>
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueed&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+</p>
+<br>
+
 ## 🌐 My social networks
 <p align="center">
    <a href="https://www.instagram.com/pedroo_henriqueed/" target="_blank">
@@ -22,6 +32,13 @@ Currently learning and building projects with:
    <a href="https://www.linkedin.com/in/pedro-henrique-davi-948866211/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting! 🚀 <br>
+  Feel free to connect with me on my social networks! 🙌
 </p>
 
 
